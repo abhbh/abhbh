@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🏠 I am a Software Developer in India with 5 years of experience
+🏠 I am a Software Developer in India with 6+ years of experience
 <br />
 🏢 Currently working as a Product Engineering Lead
 <br />
