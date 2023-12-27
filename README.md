@@ -12,6 +12,7 @@
  <a href="https://angel.co/abhnv" target="_blank">Angel.co</a> | 
 <a href="https://www.linkedin.com/in/abhnvkmr" target="_blank">LinkedIn</a> | 
 <a rel="me" href="https://mastodon.social/@abhnv" target="_blank">Mastodon</a> | 
+<a href="https://bsky.app/profile/abhinav.bsky.social" target="_blank">Bluesky</a> | 
 <a href="https://www.instagram.com/abhnvkmr" target="_blank">Instagram</a> | 
 <a href="https://twitter.com/abhnvkmr" target="_blank">Twitter</a>
 
