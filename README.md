@@ -9,7 +9,7 @@
 🗣️ Open for Chats, Rants & Chants
 
 ### Find me at
- <a href="https://angel.co/abhnv" target="_blank">Angel.co</a> | 
+ <a href="https://wellfound.com/u/abhnv" target="_blank">Wellfound</a> | 
 <a href="https://www.linkedin.com/in/abhnvkmr" target="_blank">LinkedIn</a> | 
 <a rel="me" href="https://mastodon.social/@abhnv" target="_blank">Mastodon</a> | 
 <a href="https://bsky.app/profile/abhinav.bsky.social" target="_blank">Bluesky</a> | 
